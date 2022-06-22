@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CRYPTOMUNN
-- 👀 I’m interested in Learning javascript
+- 👋 Hi, I’m Munnachi Enyi
+- 👀 I’m interested in blockchain development 
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on functions in javascript
-- 📫 How to reach me catch me on twitter.com//enyi_success
+- 💞️ I’m looking to collaborate with like minds to increase my know how
+- 📫 How to reach me send an email to enyisuccesskel@gmail.com
 
 <!---
 CRYPTOMUNN/CRYPTOMUNN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
